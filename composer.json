@@ -1,0 +1,17 @@
+{
+  "name": "leequix/kaiten-gitlab-issues",
+  "description": "Kaiten-Gitlab issues integrator",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "leequix",
+      "email": "leequix@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "KaitenGitlabIssues\\": "src/"
+    }
+  }
+}

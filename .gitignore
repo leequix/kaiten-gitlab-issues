@@ -1,0 +1,5 @@
+# Idea based ide meta files
+.idea/
+
+# Project dependencies
+vendor/
